@@ -1,0 +1,210 @@
+campaignTrail_temp.election_json = [
+    {
+        "model": "campaign_trail.election",
+        "pk": 20,
+        "fields": {
+            "year": 2016,
+            "display_year": "1968 BTWH",
+            "summary": "Put election description here. You can use html tags here too. EXAMPLE TEXT",
+            "image_url": "https://www.jetsimon.com/public/exampleelection.png",
+            "winning_electoral_vote_number": 270,
+            "advisor_url": "123",
+            "recommended_reading": "<ul>\n<li><a href=https://www.chicagotribune.com/opinion/editorials/ct-edit-chicago-tribune-biden-endorsement-20200925-lnyxsb5qvrftnjjmj3rnzj33jy-story.html>Our Case For Joe Biden</a></li>\n<li><a href=https://nationalinterest.org/feature/case-trump-166808>The Case For Trump</a></li>\n<li><a href=https://www.npr.org/2020/11/18/935730100/how-biden-won-ramping-up-the-base-and-expanding-margins-in-the-suburbs>How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs</a></li>\n<li><a href=https://www.prospectmagazine.co.uk/politics/donald-trump-joe-biden-us-election-almost-win-votes-concede>Why Did Trump Almost Win?</a></li>\n<li><a href=https://www.hoover.org/research/no-evidence-voter-fraud-guide-statistical-claims-about-2020-election>No Evidence For Voter Fraud: A Guide To Statistical Claims About The 2020 Election</a></li>\n</ul>",
+            "has_visits": 1,
+            "no_electoral_majority_image": "../static/images/2012-no-majority.jpg"
+        }
+    }
+]
+
+campaignTrail_temp.temp_election_list = [
+    {
+        "id": 20,
+        "year": 2016,
+        "is_premium": 0,
+        "display_year": "1968 BTWH"
+    }
+]
+
+campaignTrail_temp.credits = "Dr. Victor Frankenstein"
+
+campaignTrail_temp.global_parameter_json = [
+    {
+        "model": "campaign_trail.global_parameter",
+        "pk": 1,
+        "fields": {
+            "vote_variable": 1.125,
+            "max_swing": 0.12,
+            "start_point": 0.94,
+            "candidate_issue_weight": 10,
+            "running_mate_issue_weight": 3,
+            "issue_stance_1_max": -0.71,
+            "issue_stance_2_max": -0.3,
+            "issue_stance_3_max": -0.125,
+            "issue_stance_4_max": 0.125,
+            "issue_stance_5_max": 0.3,
+            "issue_stance_6_max": 0.71,
+            "global_variance": 0.01,
+            "state_variance": 0.005,
+            "question_count": 35,
+            "default_map_color_hex": "#C9C9C9",
+            "no_state_map_color_hex": "#999999"
+        }
+    }
+]
+
+campaignTrail_temp.candidate_json = [
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 201,
+        "fields": {
+            "first_name": "Eugene",
+            "last_name": "McCarthy",
+            "election": 20,
+            "party": "Progressive",
+            "state": "Minnesota",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 1,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "EXAMPLE TEXT This guy wins!",
+            "electoral_loss_message": "EXAMPLE TEXT This guy loses!",
+            "no_electoral_majority_message": "EXAMPLE TEXT We all win?",
+            "description_as_running_mate": null,
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 202,
+        "fields": {
+            "first_name": "George",
+            "last_name": "Wallace",
+            "election": 20,
+            "party": "Democratic",
+            "state": "Nebraska",
+            "priority": 1,
+            "description": "<p>Put description here</p> EXAMPLE TEXT",
+            "color_hex": "#137c78",
+            "secondary_color_hex": null,
+            "is_active": 1,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": null,
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 203,
+        "fields": {
+            "first_name": "Gerald",
+            "last_name": "Ford",
+            "election": 20,
+            "party": "Republican",
+            "state": "Nebraska",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#d24933",
+            "secondary_color_hex": null,
+            "is_active": 1,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": null,
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 204,
+        "fields": {
+            "first_name": "",
+            "last_name": "Cleaver/Gregory",
+            "election": 20,
+            "party": "Peace and Freedom",
+            "state": "California",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#BC252F",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": null,
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    }
+]
+
+campaignTrail_temp.running_mate_json = []
+
+campaignTrail_temp.opponents_default_json = [
+    {
+        "election": 20,
+        "candidates": [
+            201,
+            202,
+            203,
+            204
+        ]
+    }
+]
+
+campaignTrail_temp.opponents_weighted_json = [
+    {
+        "election": 20,
+        "candidates": [
+            201,
+            202,
+            203,
+            204
+        ]
+    }
+]
+
+jet_data = {
+    "headerColor": "#53482f",
+    "windowColor": "#53482f",
+    "containerColor": "#342d1d",
+    "innerWindowColor": "#e0d9c8",
+    "bannerImageUrl": "https://jetsimon.com/public/placeholderbanner.png",
+    "backgroundImageUrl": "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg",
+    "endingTextColor": "#000000",
+    "customQuote": "“We have seen our nation judged in the balance of history and been found wanting”",
+    "gameTitle": "BRING THE WAR HOME"
+}
+
+//#startcode
+
+
+corrr = '\n              <h2>BRING THE WAR HOME </h2><font id="wittyquote" size="4" color="white"><em>“We have seen our nation judged in the balance of history and been found wanting”</em></font>\n            ';
+
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#53482f";
+
+nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#53482f";
+
+document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title;
+
+$("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
+
+$(".container")[0].style.backgroundColor = "#342d1d";
+
+document.getElementById("header").src = "https://jetsimon.com/public/placeholderbanner.png";
+
+document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg";
+
+document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#e0d9c8!important;}</style>";
+
+//#endcode
