@@ -67,7 +67,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#758c34",
             "secondary_color_hex": null,
             "is_active": 1,
-            "image_url": "https://gcdnb.pbrd.co/images/nrKIyvW4axkU.webp?o=1",
+            "image_url": "https://i.postimg.cc/CKSTBYGJ/IMG-7353.jpg",
             "electoral_victory_message": "EXAMPLE TEXT This guy wins!",
             "electoral_loss_message": "EXAMPLE TEXT This guy loses!",
             "no_electoral_majority_message": "EXAMPLE TEXT We all win?",
@@ -207,6 +207,5 @@ document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#e0d9c8!important;}</style>";
 
-#wilkins https://gcdnb.pbrd.co/images/oidj7o0i1mqU.jpg?o=1 #jfk https://i.postimg.cc/CKSTBYGJ/IMG-7353.jpg #mcgovern https://i.postimg.cc/V6Z3VC3H/IMG-7363.jpg #Hube https://i.postimg.cc/DZw96gYX/IMG-7360.jpg #hart https://i.postimg.cc/rwS2wzrK/image0.jpg #rfk https://i.postimg.cc/0Nng73Zv/image04.jpg
 
 //#endcode
