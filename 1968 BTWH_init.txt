@@ -178,7 +178,7 @@ jet_data = {
     "windowColor": "#53482f",
     "containerColor": "#342d1d",
     "innerWindowColor": "#e0d9c8",
-    "bannerImageUrl": "https://jetsimon.com/public/placeholderbanner.png",
+    "bannerImageUrl": "https://gcdnb.pbrd.co/images/d1bAtcA9Mml1.png?o=1",
     "backgroundImageUrl": "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg",
     "endingTextColor": "#000000",
     "customQuote": "“We have seen our nation judged in the balance of history and been found wanting”",
@@ -201,7 +201,7 @@ $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selected
 
 $(".container")[0].style.backgroundColor = "#342d1d";
 
-document.getElementById("header").src = "https://jetsimon.com/public/placeholderbanner.png";
+document.getElementById("header").src = "https://gcdnb.pbrd.co/images/d1bAtcA9Mml1.png?o=1";
 
 document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg";
 
