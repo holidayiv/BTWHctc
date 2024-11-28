@@ -67,7 +67,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#758c34",
             "secondary_color_hex": null,
             "is_active": 1,
-            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "image_url": "https://imgur.com/a/eugene-mccarthy-1968-CI0u14u?third_party=g",
             "electoral_victory_message": "EXAMPLE TEXT This guy wins!",
             "electoral_loss_message": "EXAMPLE TEXT This guy loses!",
             "no_electoral_majority_message": "EXAMPLE TEXT We all win?",
