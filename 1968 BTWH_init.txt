@@ -113,7 +113,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#d24933",
             "secondary_color_hex": null,
             "is_active": 1,
-            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "image_url": "https://gcdnb.pbrd.co/images/pP19IP8tMTFn.jpg?o=1",
             "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
             "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
             "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
