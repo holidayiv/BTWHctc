@@ -181,14 +181,14 @@ jet_data = {
     "bannerImageUrl": "https://gcdnb.pbrd.co/images/d1bAtcA9Mml1.png?o=1",
     "backgroundImageUrl": "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg",
     "endingTextColor": "#000000",
-    "customQuote": "“We have seen our nation judged in the balance of history and been found wanting”",
+    "customQuote": "We have seen our nation judged in the balance of history and been found wanting. - MLK",
     "gameTitle": "BRING THE WAR HOME"
 }
 
 //#startcode
 
 
-corrr = '\n              <h2>BRING THE WAR HOME </h2><font id="wittyquote" size="4" color="white"><em>“We have seen our nation judged in the balance of history and been found wanting”</em></font>\n            ';
+corrr = '\n              <h2>BRING THE WAR HOME </h2></font><font id="georgia" size="4" color="white"><em>“We have seen our nation judged in the balance of history and been found wanting” - MLK</em></font>\n            ';
 
 
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#53482f";
@@ -203,7 +203,7 @@ $(".container")[0].style.backgroundColor = "#342d1d";
 
 document.getElementById("header").src = "https://gcdnb.pbrd.co/images/d1bAtcA9Mml1.png?o=1";
 
-document.body.background = "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg";
+document.body.background = "https://i.ibb.co/mB5xkKH/bpp.png";
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#e0d9c8!important;}</style>";
 
@@ -457,7 +457,8 @@ RecReading=true
     progressBar.type = "range";
     progressBar.id = "progress-bar";
     progressBar.value = "0";
-    progressBar.max = "100";
+    progressBar.max = "130";
+    progressBar.style.marginLeft = "0%";
   
   
     progressBarContainer.appendChild(progressBar);
@@ -474,7 +475,7 @@ RecReading=true
   
     const volumeSliderContainer = document.createElement("div");
     volumeSliderContainer.classList.add("is-vertical");
-    volumeSliderContainer.style.marginLeft = "23%";
+    volumeSliderContainer.style.marginLeft = "-20%";
     volumeSliderContainer.style.height = "126px";
   
     const volumeSlider = document.createElement("input");
@@ -556,11 +557,11 @@ RecReading=true
   const style = document.createElement("style");
   style.textContent = `
   #player {
-      border: 3px solid #C9C9C9; /* Add your desired border style */
+      border: 3px solid #241f14; /* Add your desired border style */
       display: flex;
       flex-direction: row;
     height:191px;
-      background-Image: url("https://i.ibb.co/dKL29kY/background.png");
+      background-Image: url("https://i.ibb.co/GkP7XsH/background.png");
     }
   
     #display-box {
@@ -597,7 +598,7 @@ RecReading=true
   
     }
     .is-vertical #volumeSlider {
-    width: 125px;
+    width: 90px;
   }
   
     #controls {
