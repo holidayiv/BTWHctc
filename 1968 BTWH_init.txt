@@ -343,10 +343,10 @@ RecReading=true
     );
   
     const song6 = new Song(
-      "B.Y.O.B.",
-      "System of a Down",
-      "https://upload.wikimedia.org/wikipedia/en/0/02/Mezmerize-LP.jpg",
-      "https://audio.jukehost.co.uk/TDnRpwxp5oGXmhaO0HXt6Xti2Wr3JQ2t"
+      "Don't Do Anything Illegal",
+      "Manson Family",
+      "https://static.life.com/wp-content/uploads/migrated/2012/08/150316-life-cover-12_19_1969.jpg",
+      "https://audio.jukehost.co.uk/Sco93a96Ep2XWrlZWEy1KlOj7ztJe5HR"
     );
   
     const song7 = new Song(
