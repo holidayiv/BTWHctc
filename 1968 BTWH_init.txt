@@ -25,7 +25,7 @@ campaignTrail_temp.temp_election_list = [
     }
 ]
 
-campaignTrail_temp.credits = "Dr. Victor Frankenstein"
+campaignTrail_temp.credits = "Dr. Victor Frankenstein, Hammerpants, Kbputman, and others"
 
 campaignTrail_temp.global_parameter_json = [
     {
@@ -315,10 +315,10 @@ RecReading=true
     );
     
     const song2 = new Song(
-      "American Idiot",
-      "Green Day",
-      "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Green_Day_-_American_Idiot_album_cover.png/220px-Green_Day_-_American_Idiot_album_cover.png",
-      "https://audio.jukehost.co.uk/37xW79v6txBYeEgXI3jzCRHS5yGnHJFl"
+      "Don't Pass Me By",
+      "The Beatles",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/330px-TheBeatles68LP.jpg",
+      "https://audio.jukehost.co.uk/EuC7Do0cQEa81qj0xs3IKFxfRFKvTwRK"
     );
   
     const song3 = new Song(
