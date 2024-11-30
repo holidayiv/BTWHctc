@@ -321,7 +321,7 @@ RecReading=true
       "https://audio.jukehost.co.uk/EuC7Do0cQEa81qj0xs3IKFxfRFKvTwRK"
     );
 
-const song3 = new Song(
+    const song3 = new Song(
       "All Along The Watchtower",
       "The Jimi Hendrix Experience",
       "https://upload.wikimedia.org/wikipedia/en/9/9f/All_Along_the_Watchtower_single_cover.jpg",
@@ -386,6 +386,7 @@ const song9 = new Song(
     playlist.addSong(song7);
     playlist.addSong(song8);
     playlist.addSong(song9);
+    playlist.addSong(son10);
     
   
     const playerContainer = document.createElement("div");
