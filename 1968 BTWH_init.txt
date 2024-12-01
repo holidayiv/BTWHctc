@@ -144,10 +144,262 @@ campaignTrail_temp.candidate_json = [
             "candidate_score": 1,
             "running_mate": false
         }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 205,
+        "fields": {
+            "first_name": "Philip",
+            "last_name": "Hart",
+            "election": 20,
+            "party": "Progressive",
+            "state": "Pennsylvania",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 206,
+        "fields": {
+            "first_name": "Walter",
+            "last_name": "Reuther",
+            "election": 20,
+            "party": "Progressive",
+            "state": "West Virginia",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 207,
+        "fields": {
+            "first_name": "John F.",
+            "last_name": "Kennedy",
+            "election": 20,
+            "party": "Progressive",
+            "state": "Massachusetts",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 208,
+        "fields": {
+            "first_name": "Robert F.",
+            "last_name": "Kennedy",
+            "election": 20,
+            "party": "Progressive",
+            "state": "Massachusetts",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 209,
+        "fields": {
+            "first_name": "Augustus",
+            "last_name": "Hawkins",
+            "election": 20,
+            "party": "Progressive",
+            "state": "Louisiana",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 210,
+        "fields": {
+            "first_name": "James",
+            "last_name": "Gavin",
+            "election": 20,
+            "party": "Progressive",
+            "state": "New York",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 211,
+        "fields": {
+            "first_name": "Allard",
+            "last_name": "Lowenstein",
+            "election": 20,
+            "party": "Progressive",
+            "state": "New Jersey",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 212,
+        "fields": {
+            "first_name": "John",
+            "last_name": "Abt",
+            "election": 20,
+            "party": "Progressive",
+            "state": "Illinois",
+            "priority": 1,
+            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "color_hex": "#758c34",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins! EXAMPLE TEXT",
+            "electoral_loss_message": "This guy loses! EXAMPLE TEXT",
+            "no_electoral_majority_message": "We all win? EXAMPLE TEXT",
+            "description_as_running_mate": "<p>This is a running mate description it only shows for running mates</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
     }
 ]
 
-campaignTrail_temp.running_mate_json = []
+
+
+
+campaignTrail_temp.running_mate_json = [
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 119961,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 205
+        }
+    },
+      {
+        "model": "campaign_trail.running_mate",
+        "pk": 119961,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 206
+        }
+    },
+      {
+        "model": "campaign_trail.running_mate",
+        "pk": 119961,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 207
+        }
+    },
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 119961,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 208
+        }
+    },
+      {
+        "model": "campaign_trail.running_mate",
+        "pk": 119961,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 209
+        }
+    },
+      {
+        "model": "campaign_trail.running_mate",
+        "pk": 119961,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 210
+        }
+    },
+      {
+        "model": "campaign_trail.running_mate",
+        "pk": 119961,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 211
+        }
+    }, 
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 157585,
+        "fields": {
+            "candidate": 201,
+            "running_mate": 212
+        }
+    }
+]
 
 campaignTrail_temp.opponents_default_json = [
     {
@@ -160,6 +412,7 @@ campaignTrail_temp.opponents_default_json = [
         ]
     }
 ]
+
 
 campaignTrail_temp.opponents_weighted_json = [
     {
@@ -400,61 +653,61 @@ RecReading=true
       "https://i.scdn.co/image/ab67616d0000b273775a6bee6c704ec29aec00f4",
       "https://audio.jukehost.co.uk/fwHnrGItjlUAGToJQjsTXsqHAWwLeVqg"
     );
-    
+  
     const song2 = new Song(
-      "Don't Pass Me By",
-      "The Beatles",
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/330px-TheBeatles68LP.jpg",
-      "https://audio.jukehost.co.uk/EuC7Do0cQEa81qj0xs3IKFxfRFKvTwRK"
-    );
-
-    const song3 = new Song(
       "All Along The Watchtower",
       "The Jimi Hendrix Experience",
       "https://upload.wikimedia.org/wikipedia/en/9/9f/All_Along_the_Watchtower_single_cover.jpg",
       "https://audio.jukehost.co.uk/mdFmbopSZ9Tq86Hjm5IBlwmBSfy8Azvd"
     );
-  
-    const song4 = new Song(
-      "Gimme Shelter",
-      "The Rolling Stones And Mary Clayton",
-      "https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99",
-      "https://audio.jukehost.co.uk/6WrFwPgsJOoDd6RLhTMzLySn1ntEQf1F"
+
+    const song3 = new Song(
+      "Don't Pass Me By",
+      "The Beatles",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/330px-TheBeatles68LP.jpg",
+      "https://audio.jukehost.co.uk/EuC7Do0cQEa81qj0xs3IKFxfRFKvTwRK"
     );
   
+    const song4 = new Song(
+      "I'd Like to Change the World",
+      "Ten Years Later",
+      "https://imageio.forbes.com/specials-images/imageserve/64765981a66e7cca5e7b69d7/8166OX24srL--SL1500-/0x0.jpg?format=jpg&crop=1500,1230,x0,y82,safe&width=960",
+      "https://audio.jukehost.co.uk/lZ486J3EIo7wPBzzbs0x1vZibvs0JscT"
+    );
+
     const song5 = new Song(
       "Volunteers",
       "Jefferson Airplane",
       "https://upload.wikimedia.org/wikipedia/en/b/b7/Jefferson_Airplane-Volunteers_%28album_cover%29.jpg",
       "https://audio.jukehost.co.uk/doBBWYF4el26UlL7X9Pd0Qt3RzYY2Ykx"
     );
-  
-    const song6 = new Song(
-      "I'd Like to Change the World",
-      "Ten Years Later",
-      "https://imageio.forbes.com/specials-images/imageserve/64765981a66e7cca5e7b69d7/8166OX24srL--SL1500-/0x0.jpg?format=jpg&crop=1500,1230,x0,y82,safe&width=960",
-      "https://audio.jukehost.co.uk/lZ486J3EIo7wPBzzbs0x1vZibvs0JscT"
+
+      const song6 = new Song(
+      "Backlash Blues",
+      "Nina Simone",
+      "https://upload.wikimedia.org/wikipedia/en/5/52/Ninasimonesingstheblues.jpg",
+      "https://audio.jukehost.co.uk/ishEULvh8MHHsLezLg4cjPhgFMqQ2VwM"
+    );
+
+    const song7 = new Song(
+      "Gimme Shelter",
+      "The Rolling Stones And Merry Clayton",
+      "https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99",
+      "https://audio.jukehost.co.uk/6WrFwPgsJOoDd6RLhTMzLySn1ntEQf1F"
     );
   
-    const song7 = new Song(
+    const song8 = new Song(
       "America Eats It's Young",
       "Funkadelic",
       "https://upload.wikimedia.org/wikipedia/en/b/bf/Funkadelic_-_America_Eats_Its_Young.jpg",
       "https://audio.jukehost.co.uk/3byHu2AiEtQ5iVTHBxzwxm9Wl6AKYhEt"
     );
 
-    const song8 = new Song(
-      "Napalm Sticks to Kids",
-      "Covered Wagon Musicians",
-      "https://i.scdn.co/image/ab67616d0000b27304ec16fbd7e964f1da9b46d6",
-      "https://audio.jukehost.co.uk/AJB8xdCQk4SNiNCDCDFmm0uNysogJQzv"
-    );
-
-    const song10 = new Song(
-      "Backlash Blues",
-      "Nina Simone",
-      "https://upload.wikimedia.org/wikipedia/en/5/52/Ninasimonesingstheblues.jpg",
-      "https://audio.jukehost.co.uk/ishEULvh8MHHsLezLg4cjPhgFMqQ2VwM"
+    const song9 = new Song(
+      "National Anthem",
+      "Jimi Hendrix",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-zZVhSBGaCWM8nkbrC94xUuQVEy8ik2U9A&s",
+      "https://audio.jukehost.co.uk/BQqTPIzt4fQMDYj5o1uOncwte8A2G3jw"
     );
 
     const song10 = new Song(
@@ -465,11 +718,12 @@ RecReading=true
     );
 
     const song11 = new Song(
-      "National Anthem",
-      "Jimi Hendrix",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-zZVhSBGaCWM8nkbrC94xUuQVEy8ik2U9A&s",
-      "https://audio.jukehost.co.uk/BQqTPIzt4fQMDYj5o1uOncwte8A2G3jw"
+      "Napalm Sticks to Kids",
+      "Covered Wagon Musicians",
+      "https://i.scdn.co/image/ab67616d0000b27304ec16fbd7e964f1da9b46d6",
+      "https://audio.jukehost.co.uk/AJB8xdCQk4SNiNCDCDFmm0uNysogJQzv"
     );
+
 
     playlist.addSong(song1);
     playlist.addSong(song2);
