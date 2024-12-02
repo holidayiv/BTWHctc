@@ -662,75 +662,103 @@ RecReading=true
     );
 
     const song3 = new Song(
+      "The American Ruse",
+      "MC5",
+      "https://rockandrollglobe.com/wp-content/uploads/2018/09/MC5_Kick_out_the_jams_5X5.jpg",
+      "https://audio.jukehost.co.uk/nIHx6rCTiAoaA5rzXLJUQmrt8NFKqmCs"
+    );
+
+    const song4 = new Song(
       "All Along The Watchtower",
       "The Jimi Hendrix Experience",
       "https://upload.wikimedia.org/wikipedia/en/9/9f/All_Along_the_Watchtower_single_cover.jpg",
       "https://audio.jukehost.co.uk/mdFmbopSZ9Tq86Hjm5IBlwmBSfy8Azvd"
     );
 
-    const song4 = new Song(
+    const song5 = new Song(
       "Volunteers",
       "Jefferson Airplane",
       "https://upload.wikimedia.org/wikipedia/en/b/b7/Jefferson_Airplane-Volunteers_%28album_cover%29.jpg",
       "https://audio.jukehost.co.uk/doBBWYF4el26UlL7X9Pd0Qt3RzYY2Ykx"
     );
 
-    const song5 = new Song(
-      "Southern Man",
-      "Merry Clayton",
-      "https://upload.wikimedia.org/wikipedia/en/1/1f/Merry_Clayton_album_cover.jpg",
-      "https://audio.jukehost.co.uk/TFP6Fx04OBH3uJZNbpcoyXq3KaMibw6M"
-    );
-
-      const song6 = new Song(
+    const song6 = new Song(
       "Backlash Blues",
       "Nina Simone",
       "https://upload.wikimedia.org/wikipedia/en/5/52/Ninasimonesingstheblues.jpg",
       "https://audio.jukehost.co.uk/ishEULvh8MHHsLezLg4cjPhgFMqQ2VwM"
     );
 
-    const song7 = new Song(
+  const song7 = new Song(
+      "1969",
+      "The Stooges",
+      "https://upload.wikimedia.org/wikipedia/en/e/e6/StoogesStooges.jpg",
+      "https://audio.jukehost.co.uk/TakgnsH6WAlGbp0XWvKxqWDVoZddnvHe"
+    );
+
+    const song8 = new Song(
+      "Southern Man",
+      "Merry Clayton",
+      "https://upload.wikimedia.org/wikipedia/en/1/1f/Merry_Clayton_album_cover.jpg",
+      "https://audio.jukehost.co.uk/TFP6Fx04OBH3uJZNbpcoyXq3KaMibw6M"
+    );
+
+    const song9 = new Song(
       "I'd Like to Change the World",
       "Ten Years Later",
       "https://imageio.forbes.com/specials-images/imageserve/64765981a66e7cca5e7b69d7/8166OX24srL--SL1500-/0x0.jpg?format=jpg&crop=1500,1230,x0,y82,safe&width=960",
       "https://audio.jukehost.co.uk/lZ486J3EIo7wPBzzbs0x1vZibvs0JscT"
     );
 
-    const song8 = new Song(
+    const song10 = new Song(
       "Gimme Shelter",
       "The Rolling Stones And Merry Clayton",
       "https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99",
       "https://audio.jukehost.co.uk/6WrFwPgsJOoDd6RLhTMzLySn1ntEQf1F"
     );
 
-    const song9 = new Song(
+    const song11 = new Song(
       "America Eats It's Young",
       "Funkadelic",
       "https://upload.wikimedia.org/wikipedia/en/b/bf/Funkadelic_-_America_Eats_Its_Young.jpg",
       "https://audio.jukehost.co.uk/3byHu2AiEtQ5iVTHBxzwxm9Wl6AKYhEt"
     );
 
-    const song10 = new Song(
+    const song12 = new Song(
       "Strange Fruit",
       "Nina Simone",
       "https://miro.medium.com/v2/resize:fit:600/0*fPYU4D95pu1BnJMH.jpg",
       "https://audio.jukehost.co.uk/8xwF0cmQoMDXyZ7xvdbAVRkqGeaKBGc3"
     );
 
-    const song11 = new Song(
+    const song13 = new Song(
       "National Anthem",
       "Jimi Hendrix",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy-zZVhSBGaCWM8nkbrC94xUuQVEy8ik2U9A&s",
       "https://audio.jukehost.co.uk/BQqTPIzt4fQMDYj5o1uOncwte8A2G3jw"
     );
 
-    const song12 = new Song(
+    const song14 = new Song(
+      "Don't Do Anything Illegal",
+      "Manson Family",
+      "https://static.life.com/wp-content/uploads/migrated/2012/08/150316-life-cover-12_19_1969.jpg",
+      "https://audio.jukehost.co.uk/Sco93a96Ep2XWrlZWEy1KlOj7ztJe5HR"
+
+    );
+
+    const song15 = new Song(
       "Napalm Sticks to Kids",
       "Covered Wagon Musicians",
       "https://i.scdn.co/image/ab67616d0000b27304ec16fbd7e964f1da9b46d6",
       "https://audio.jukehost.co.uk/AJB8xdCQk4SNiNCDCDFmm0uNysogJQzv"
     );
 
+    const song16 = new Song(
+      "Winter in America",
+      "Gil Scott-Heron & Brian Jackson",
+      "https://m.media-amazon.com/images/I/71bV6Dt7MHL._UF1000,1000_QL80_.jpg",
+      "https://audio.jukehost.co.uk/lV7rINoZ6OkiT54sWd2wfWdvKtRFcfEW"
+    );
 
     playlist.addSong(song1);
     playlist.addSong(song2);
@@ -744,7 +772,10 @@ RecReading=true
     playlist.addSong(song10);
     playlist.addSong(song11);
     playlist.addSong(song12);
-    
+    playlist.addSong(song13);
+    playlist.addSong(song14);
+    playlist.addSong(song15);
+    playlist.addSong(song16);
   
     const playerContainer = document.createElement("div");
     playerContainer.id = "player";
