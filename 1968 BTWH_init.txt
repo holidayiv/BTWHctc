@@ -25,7 +25,7 @@ campaignTrail_temp.temp_election_list = [
     }
 ]
 
-campaignTrail_temp.credits = "Dr. Victor Frankenstein, Hammerpants, Kbputman, and others"
+campaignTrail_temp.credits = "Dr. Victor Frankenstein, Hammerpants, Kbputman, and others, with special thanks to Comrade Ray"
 
 campaignTrail_temp.global_parameter_json = [
     {
@@ -446,76 +446,6 @@ var changeGameDisp = (hide) => {
     document.getElementsByClassName("inner_window_w_desc")[0].style.display = disp
   };
 
-e.creditsPage = () => {
-    credits_html = `
-    <h1>The End of History</h1>
-    <h4>The 1996 Election - Credits</h4>
-    <br>
-    <h2>Director - Writer and Coder</h2><img src="https://itsastronomical.com/assets/miniastro.png" width="100px">
-    <h4><font color="#5d81e3">ItsAstronomical</font></h4>
-    <h2>Ending Writers/Advisors</h2>
-    <h4>bonbishka</h4>
-    <h4>Neo</h4>
-    <h4>MassachusettsForStockdale</h4>
-    <h4>Greeleycrat</h4>
-    <h4>yangtze_river</h4>
-    <h2>Custom Features</h2>
-    <h4><font color="#E97451">JetSimon - Windows Custom CSS, <a href="https://wofford96.org/">wofford96.org</a> ARG</font></h4>
-    <h4><font color="#E0B0FF">Nina - Tooltip and VP Advice Feature</font></h4>
-    <h4><font color="#569c7d">DecstarG - Credits, Midgame VP Switcher</font></h4>
-    <h2>Playtesters/Other Adivce</h2>
-    <h4>Duplicator</h4>
-    <h4>ettingermentum</h4>
-    <h4>GDIFIREHAWK</h4>
-    <h4>RouteVenus</h4>
-    <h4>Ctaccount</h4>
-    <h4>Jake Dionysos</h4>
-    <h4>maarshalker</h4>
-    <h4>Obummer</h4>
-    <h4>Jonsku</h4>
-    <h4>TedThing</h4>
-    <h4>Liquid Astro</h4>
-    <h2>Special Thanks</h4>
-    <h4>Breggotheeggo, for suggesting Steve Gunderson as a VP for Wilson</h4>
-    </div>
-    `
-    changeGameDisp(true);
-    var spacer = document.createElement("amongusspacerthisisntarealelement");
-    spacer.innerHTML = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
-    document
-      .getElementsByClassName("inner_window_w_desc")[0]
-      .children[1].appendChild(spacer);
-      changeGameDisp(true);
-      var menuHeader = document.createElement("div");
-      menuHeader.classList.add("inner_window_front");
-      menuHeader.innerHTML = `<h1 style='font-family: "Times New Roman";'><font color='#0496f7'>Credits</font></h1>`;
-      menuHeader.id = "SOTUheader";
-      menuHeader.style = "height: 50px;background-color:#2d2d2d";
-      var newMenu = document.createElement("div");
-      newMenu.classList.add("inner_window_front");
-      newMenu.id = "SOTUmenu";
-      newMenu.style = `height:260px;background-color:#2d2d2d;color:white;overflow-y: scroll;`;
-  
-      newMenu.innerHTML = credits_html;
-      let z = document.getElementById("game_window");
-      var backButton = document.createElement("button");
-      backButton.style =
-        "position: relative; bottom: -13px; left: -380px; width: 150px; height: 80px;font-size:40px;padding-top:5px;padding-left:8px";
-      backButton.id = "backSOTUBtn";
-      backButton.innerHTML = `<b>BACK</b>`;
-      backButton.onclick = function () {
-        document.getElementById("SOTUheader").remove();
-        document.getElementById("SOTUmenu").remove();
-        document.getElementById("backSOTUBtn").remove();
-        changeGameDisp(false);
-      };
-      z.appendChild(menuHeader);
-      z.appendChild(newMenu);
-      z.appendChild(backButton);
-  
-  }
-  
-  e.credits = "<button onclick='e.creditsPage()'>Credits</button>"
 
   styling = document.createElement("style");
   document.head.appendChild(styling);
