@@ -25,7 +25,7 @@ campaignTrail_temp.temp_election_list = [
     }
 ]
 
-campaignTrail_temp.credits = "Dr. Victor Frankenstein, Hammerpants, Kbputman, and others, with thanks to Comrade Ray"
+campaignTrail_temp.credits = "Dr. Victor Frankenstein, Hammerpants, Kbputman, and others"
 
 campaignTrail_temp.global_parameter_json = [
     {
@@ -446,6 +446,38 @@ var changeGameDisp = (hide) => {
     document.getElementsByClassName("inner_window_w_desc")[0].style.display = disp
   };
 
+e.creditsPage = () => {
+    credits_html = `
+    <h1>The End of History</h1>
+    <h4>The 1996 Election - Credits</h4>
+    <br>
+    <h2>Director - Writer and Coder</h2><img src="https://itsastronomical.com/assets/miniastro.png" width="100px">
+    <h4><font color="#5d81e3">ItsAstronomical</font></h4>
+    <h2>Ending Writers/Advisors</h2>
+    <h4>bonbishka</h4>
+    <h4>Neo</h4>
+    <h4>MassachusettsForStockdale</h4>
+    <h4>Greeleycrat</h4>
+    <h4>yangtze_river</h4>
+    <h2>Custom Features</h2>
+    <h4><font color="#E97451">JetSimon - Windows Custom CSS, <a href="https://wofford96.org/">wofford96.org</a> ARG</font></h4>
+    <h4><font color="#E0B0FF">Nina - Tooltip and VP Advice Feature</font></h4>
+    <h4><font color="#569c7d">DecstarG - Credits, Midgame VP Switcher</font></h4>
+    <h2>Playtesters/Other Adivce</h2>
+    <h4>Duplicator</h4>
+    <h4>ettingermentum</h4>
+    <h4>GDIFIREHAWK</h4>
+    <h4>RouteVenus</h4>
+    <h4>Ctaccount</h4>
+    <h4>Jake Dionysos</h4>
+    <h4>maarshalker</h4>
+    <h4>Obummer</h4>
+    <h4>Jonsku</h4>
+    <h4>TedThing</h4>
+    <h4>Liquid Astro</h4>
+    <h2>Special Thanks</h4>
+    <h4>Breggotheeggo, for suggesting Steve Gunderson as a VP for Wilson</h4>
+    </div>
     `
     changeGameDisp(true);
     var spacer = document.createElement("amongusspacerthisisntarealelement");
