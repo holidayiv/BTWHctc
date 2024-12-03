@@ -1744,7 +1744,7 @@ campaignTrail_temp.issues_json = [
             "stance_desc_4": 0,
             "stance_5": "Gas Lines",
             "stance_desc_5": 0,
-            "stance_6": "Stagflation",
+            "stance_6": "Deflation",
             "stance_desc_6": 0,
             "stance_7": "Business as Usual",
             "stance_desc_7": 0,
