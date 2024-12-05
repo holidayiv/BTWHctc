@@ -293,7 +293,7 @@ campaignTrail_temp.candidate_json = [
             "party": "Progressive",
             "state": "New Jersey",
             "priority": 1,
-            "description": "<p>Put description here EXAMPLE TEXT</p>",
+            "description": "<p>“a permanent youth leader. Wiry yet frail, balding early, his eyes compelling behind their black horn-rimmed eyeglasses, a nonsmoker and nondrinker, Lowenstein was a one-man excitement wherever he moved.”>",
             "color_hex": "#758c34",
             "secondary_color_hex": null,
             "is_active": 0,
