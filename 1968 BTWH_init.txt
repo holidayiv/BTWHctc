@@ -592,10 +592,10 @@ RecReading=true
     );
 
     const song3 = new Song(
-      "The American Ruse",
-      "MC5",
-      "https://rockandrollglobe.com/wp-content/uploads/2018/09/MC5_Kick_out_the_jams_5X5.jpg",
-      "https://audio.jukehost.co.uk/nIHx6rCTiAoaA5rzXLJUQmrt8NFKqmCs"
+      "Draft Dodger Rag",
+      "Phil Ochs",
+      "https://i.ibb.co/VqRD18Y/Phil-Ochs-album-cover-1.jpg",
+      "https://audio.jukehost.co.uk/FVD6jbVP0edSY6opeaqBdIVi8OmVl0pL"
     );
 
     const song4 = new Song(
