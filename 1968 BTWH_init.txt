@@ -84,7 +84,7 @@ campaignTrail_temp.candidate_json = [
             "last_name": "Wallace",
             "election": 20,
             "party": "Democratic",
-            "state": "Nebraska",
+            "state": "Alabama",
             "priority": 1,
             "description": "<p>Put description here</p> EXAMPLE TEXT",
             "color_hex": "#137c78",
