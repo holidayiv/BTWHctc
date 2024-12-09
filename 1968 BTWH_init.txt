@@ -642,7 +642,7 @@ RecReading=true
 
     const song10 = new Song(
       "Gimme Shelter",
-      "The Rolling Stones And Merry Clayton",
+      "The Rolling Stones",
       "https://i.scdn.co/image/ab67616d0000b2732af30c881bb23cfb82a8cf99",
       "https://audio.jukehost.co.uk/6WrFwPgsJOoDd6RLhTMzLySn1ntEQf1F"
     );
