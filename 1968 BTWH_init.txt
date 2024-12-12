@@ -620,17 +620,17 @@ RecReading=true
     );
 
   const song7 = new Song(
-      "1969",
-      "The Stooges",
-      "https://upload.wikimedia.org/wikipedia/en/e/e6/StoogesStooges.jpg",
-      "https://audio.jukehost.co.uk/TakgnsH6WAlGbp0XWvKxqWDVoZddnvHe"
+      "The Meeting",
+      "Elaine Brown",
+      "https://i.scdn.co/image/ab67616d0000b273f1a0c422f8d345cce63e8972",
+      "https://audio.jukehost.co.uk/lV7rINoZ6OkiT54sWd2wfWdvKtRFcfEW"
     );
 
     const song8 = new Song(
       "Southern Man",
       "Merry Clayton",
       "https://upload.wikimedia.org/wikipedia/en/1/1f/Merry_Clayton_album_cover.jpg",
-      "https://audio.jukehost.co.uk/TFP6Fx04OBH3uJZNbpcoyXq3KaMibw6M"
+      "https://audio.jukehost.co.uk/BySlEl7nHPFIIZpSiMFnPFHwWgvuqjCP"
     );
 
     const song9 = new Song(
