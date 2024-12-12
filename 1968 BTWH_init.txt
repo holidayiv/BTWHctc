@@ -458,7 +458,7 @@ var changeGameDisp = (hide) => {
 //#startcode
 
 
-corrr = '\n              <h2>BRING THE WAR HOME </h2></font><font id="georgia" size="4" color="white"><em>“We have seen our nation judged in the balance of history and been found wanting” - MLK</em></font>\n            ';
+corrr = '\n              <h2>BRING THE WAR HOME </h2></font><font id="georgia" size="4" color="white"><em>“We have seen our nation judged in the balance of history and been found wanting.” - MLK</em></font>\n            ';
 
 
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#53482f";
