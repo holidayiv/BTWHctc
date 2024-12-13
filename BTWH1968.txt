@@ -1755,7 +1755,7 @@ campaignTrail_temp.issues_json = [
         "model": "campaign_trail.issue",
         "pk": 16,
         "fields": {
-            "name": "Political Violence",
+            "name": "Violence",
             "description": 0,
             "stance_1": "Republic of Virtue",
             "stance_desc_1": 0,
@@ -1765,7 +1765,7 @@ campaignTrail_temp.issues_json = [
             "stance_desc_3": 0,
             "stance_4": "Street Brawls",
             "stance_desc_4": 0,
-            "stance_5": "Organized Paramilitaries",
+            "stance_5": "Organized Militias",
             "stance_desc_5": 0,
             "stance_6": "Armed Patrols",
             "stance_desc_6": 0,
