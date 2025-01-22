@@ -16,7 +16,7 @@ campaignTrail_temp.questions_json = [
         "pk": 334,
         "fields": {
             "priority": 0,
-            "description": "What will be the overall message of your campaign?",
+            "description": "The Viet Cong and North Vietnamese Army have launched a massive attack on American and ARVN forces in Vietnam. With casualties mounting, General Westmoreland is demanding at least 250,000 additional troops. A bill has quickly made it’s way through committee to accommodate the military’s orders. As a member of congress, how do you respond?",
             "likelihood": 1
         }
     },
@@ -25,7 +25,7 @@ campaignTrail_temp.questions_json = [
         "pk": 252,
         "fields": {
             "priority": 1,
-            "description": "What is your overall position on the Vietnam War?",
+            "description": "Lowenstein Gives you a call while you’re proofreading one of your poems. He practically begs you to enter the progressive party primaries, but you don’t need to be convinced.  In the wake of the Tet offensive, Hubert Humphrey has used vaguely pro-war rhetoric, at times conciliatory with President Goldwater’s Escalation. How will you kick off your campaign to unseat Hubert Humphrey?",
             "likelihood": 1
         }
     },
@@ -34,7 +34,7 @@ campaignTrail_temp.questions_json = [
         "pk": 253,
         "fields": {
             "priority": 1,
-            "description": "If elected, what will you do to get the student and Negro riots in this country under control?",
+            "description": "President Goldwater has exceeded the military’s initial request, deploying 300,000 troops to Vietnam to stem the Tet Offensive. In response, a wave of protests has swept cities and campuses across the country, leading to the burning of recruitment offices and ROTC buildings, including a high profile incident in which two recruiters were barricaded inside a burning recruitment office and died. What statement will you release?",
             "likelihood": 1
         }
     },
@@ -244,7 +244,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1653,
         "fields": {
             "question": 252,
-            "description": "We keep emboldening the enemy in Vietnam with half-measures. We will never win this war unless we escalate it."
+            "description": "I’ll hold a rally at Dover Air Force Base, where flag-draped coffins are greeted by weeping families, pledging to end the war at any cost. "
         }
     },
     {
@@ -252,7 +252,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1654,
         "fields": {
             "question": 252,
-            "description": "I'm in no position to comment on the conduct of the war. When I'm President I will do everything in my power to seek peace, but I cannot undermine the current Administration."
+            "description": "A series of smaller rallies in economically hard-hit areas would work better. I’ll call to renew the promise of the new deal that the Republicans and Democrats have both abandoned."
         }
     },
     {
@@ -260,7 +260,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1655,
         "fields": {
             "question": 252,
-            "description": "We should stop bombing North Vietnam and attempt to negotiate a peace settlement. In the mean time, we should be putting our troops at risk only when absolutely necessary."
+            "description": "I’ll go to Watts, Detroit, and other cities mired by racial unrest, highlighting my support for civil rights and promising to end racial injustice in America."
         }
     },
     {
@@ -268,7 +268,7 @@ campaignTrail_temp.answers_json = [
         "pk": 1656,
         "fields": {
             "question": 252,
-            "description": "We need to pull our forces out of Vietnam as soon as possible. This war is a national disgrace."
+            "description": "I’ll reach out to the lost young men and women of America and promise a brighter vision for the future. While they may be inebriated with the idealism of youth, their enthusiasm will be vital to my campaign. \n"
         }
     },
     {
@@ -836,7 +836,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3278,
         "fields": {
             "question": 334,
-            "description": "I am campaigning on the issue of ending desegregation. That is my appeal and that is the issue I will stick to."
+            "description": "I'm not gonna be silent about this farce. I'm going on the senate floor."
         }
     },
     {
@@ -844,7 +844,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3279,
         "fields": {
             "question": 334,
-            "description": "I'm opposed to desegregation, environmentalism, defeatism, social engineering, busing, declining property values, and unchecked rioting. My candidacy appeals to southerners and northerners alike."
+            "description": " I’ll request comprehensive review by the Government Accountability Office to evaluate the military impacts of committing an additional 250,000 boys to Vietnam. I’ll also propose an amendment to the defense appropriations bill requiring a clear exit strategy before allocating funds for further troop deployments.\n"
         }
     },
     {
@@ -852,7 +852,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3280,
         "fields": {
             "question": 334,
-            "description": "You know, beyond the racial thing I do have other policies. I have worked tirelessly in Alabama on behalf of the poor and downtrodden, and I will do the same as President of the United States."
+            "description": "I’ve said it time and time again, more troops are not needed! I’ll talk to Fulbright about what we can do to obstruct this."
         }
     },
     {
@@ -860,7 +860,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3281,
         "fields": {
             "question": 334,
-            "description": "I am a serious candidate for President of the United States. I will protect law-abiding Americans from social disorder and I will win the war in Vietnam."
+            "description": "Whatever I do, this bill is going to pass. However, some of these things I’ve been hearing about–these reports of massacres–we’ve gotta look into them. \n"
         }
     },
     {
@@ -5617,7 +5617,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 202,
             "state": 101,
-            "state_multiplier": 1
+            "state_multiplier": 0.5
         }
     },
     {
@@ -6076,7 +6076,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 203,
             "state": 101,
-            "state_multiplier": 1
+            "state_multiplier": 1.66
         }
     },
     {
@@ -6535,7 +6535,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 204,
             "state": 101,
-            "state_multiplier": 0.1
+            "state_multiplier": 0.2
         }
     },
     {
