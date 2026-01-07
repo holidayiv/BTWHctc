@@ -16,6 +16,17 @@ campaignTrail_temp.election_json = [
     }
 ]
 
+campaignTrail_temp.modBoxTheme = {
+     "header_color": "#000000",
+     "header_image_url": "TBD",
+     "header_text_color": "#ffffff",
+     "description_text_color": "#ffffff",
+     "description_background_color": "#000000",
+     "main_color": "#000000",
+     "secondary_color": "#000000",
+     "ui_text_color": "#FFFFFF"
+}
+
 campaignTrail_temp.temp_election_list = [
     {
         "id": 20,
@@ -431,7 +442,7 @@ jet_data = {
     "windowColor": "#53482f",
     "containerColor": "#342d1d",
     "innerWindowColor": "#e0d9c8",
-    "bannerImageUrl": "https://gcdnb.pbrd.co/images/d1bAtcA9Mml1.png?o=1",
+    "bannerImageUrl": "https://i.postimg.cc/NFZMwnwv/ofcourse-(2).jpg",
     "backgroundImageUrl": "https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg",
     "endingTextColor": "#000000",
     "customQuote": "We have seen our nation judged in the balance of history and been found wanting. - MLK",
@@ -471,7 +482,7 @@ $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selected
 
 $(".container")[0].style.backgroundColor = "#342d1d";
 
-document.getElementById("header").src = "https://gcdnb.pbrd.co/images/d1bAtcA9Mml1.png?o=1";
+document.getElementById("header").src = "https://i.postimg.cc/NFZMwnwv/ofcourse-(2).jpg";
 
 document.body.background = "https://i.ibb.co/mB5xkKH/bpp.png";
 
