@@ -86,7 +86,7 @@ campaignTrail_temp.candidate_json = [
             "party": "Democratic",
             "state": "Alabama",
             "priority": 1,
-            "description": "<p></p>",
+            "description": "<p>George C. Wallace, the fiery former Governor of Alabama, has been coronated by the southern Dixiecratic establishment for a shot at the White House. Supported by figures such as former Vice President Dodd, and Democratic veterans Johnson and Thurmond, he aims to inflame a reactionary opposition to the recent civil rights act and rally traditional democratic voters to his column using populist and pro-union rhetoric. One of his activities after the end of his term as Alabama governor in 1966 was touring large, northeastern college campuses. In these visits he would present himself as an educated southron gentleman, who would be eager to debate respectfully. When students confronted him about his open racism, he would shut them down and claim victory. However, on one of these tours last year, an angry student pulled a gun and attempted to shoot the governor. The student was stopped and eventually put on trial, where Wallace famously testified. Already popular in the south, the trial shot him to stardom. Amongst a field of dixiecrats, moderates, and liberal hangers-on, Wallace alone has potential to appeal to both midwestern workers and the southern base. He will have to use his national image, and natural charisma to make it through the primaries, win the general election, and reclaim the Whites’ House. </p>",
             "color_hex": "#137c78",
             "secondary_color_hex": null,
             "is_active": 1,
