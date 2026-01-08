@@ -802,19 +802,19 @@ RecReading=true
   
   const prevButton = document.createElement("img");
   prevButton.id = "prevButton";
-  prevButton.src = "https://i.ibb.co/gMyNq5T/back.png";
+  prevButton.src = "https://i.imgur.com/Zkk16Uy.png";
   prevButton.alt = "Previous";
   controls.appendChild(prevButton);
   
   const playPauseButton = document.createElement("img");
   playPauseButton.id = "playPauseButton";
-  playPauseButton.src = "https://i.ibb.co/5TwzzWN/pause.png"; // Set the default play image
+  playPauseButton.src = "https://i.imgur.com/LxQnVBj.png"; // Set the default play image
   playPauseButton.alt = "Play/Pause";
   controls.appendChild(playPauseButton);
   
   const nextButton = document.createElement("img");
   nextButton.id = "nextButton";
-  nextButton.src = "https://i.ibb.co/5Rx0cYt/forward.png";
+  nextButton.src = "https://i.imgur.com/P39RRW4.png";
   nextButton.alt = "Next";
   controls.appendChild(nextButton);
   
