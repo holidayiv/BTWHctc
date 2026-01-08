@@ -5,7 +5,7 @@ campaignTrail_temp.election_json = [
         "fields": {
             "year": 1968,
             "display_year": "1968 BTWH",
-            "summary": "Put election description here. You can use html tags here too. EXAMPLE TEXT",
+            "summary": "<div style='overflow-y:scroll;height:180px;padding-right:7px'> America is dying. <p> Trust in the government is at an all time low, the new deal has been hacked to pieces, and every casket coming home from Vietnam sparks riots. Black Americans are no better off than they were half a century ago. President Goldwater has caved completely to southern interests, with the 1965 civil rights act being so weak and unenforceable, most people have forgotten that it exists, other than enraged southern militias. The failure of the freedom rides and the widespread persecution of civil rights organizations, a low level guerilla war has emerged in the Mississippi delta between black self defense forces and white supremacist militias. <p> The south is not the only place in the country facing violence, as riots in northern cities engulf entire neighborhoods in flame, and radical organizations such as the black panther party grow by the dozens every day. <p> Compounding all these problems is the war in Vietnam. The myth that international Communism would back down if confronted with overwhelming force, such as in Korea's nuclear hellfire, has entrenched itself in the mind of America’s foreign policy elite. Every day, the war expands, and more americans come home in coffins.",
             "image_url": "https://i.postimg.cc/LsF4Hkcr/par80905-teaser-story-big.jpg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://gcdnb.pbrd.co/images/QVXKe4YvEgL2.jpg?o=1",
